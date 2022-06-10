@@ -4,7 +4,7 @@
 🌱 Participo do BootCampo Java Full Stack da SoulCode Academy Turma BCW20
 
 
-<div slyle="display: inline_block">
+<div>
 <a href="https://github.com/dudscarpi">
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=dudscarpi&show_icons=true&theme=dracula"/>
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudscarpi&layout=compact&show_icons=true&theme=dracula"/>
