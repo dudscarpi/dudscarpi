@@ -1,7 +1,7 @@
 ### Olá, eu sou Eduara Carpi 👋
 
 
-🌱 Participei do BootCamp Java Full Stack da SoulCode Academy Turma BCW20 - mai-set/22
+🌱 Participei do BootCamp Java Full Stack da SoulCode Academy Turma BCW20 - mai-set/22 <br>
 🌱 Estudo Marketing e Analise de Sistemas na Estacio de Sa
 
 <div>
