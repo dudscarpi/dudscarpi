@@ -2,7 +2,7 @@
 
 
 🌱 Participei do BootCamp Java Full Stack da SoulCode Academy Turma BCW20 - mai-set/22 <br>
-🌱 Estudo Marketing e Analise de Sistemas na Estacio de Sa
+🌱 Estudo Marketing e Analise de Sistemas
 
 <div>
 <a href="https://github.com/dudscarpi">
