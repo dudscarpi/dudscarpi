@@ -26,9 +26,9 @@
     <img align="center" heigth="30" width="40" src="https://img.icons8.com/color/48/null/python--v1.png"/>
     <img align="center" heigth="30" width="40" src="https://img.icons8.com/color/48/null/google-cloud.png"/>
     <img align="center" heigth="30" width="40" src="https://img.icons8.com/color/48/null/amazon-web-services.png"/>
-    
         <img src="https://img.icons8.com/external-creatype-outline-colourcreatype/64/null/external-document-file-extension-web-format-file-creatype-outline-colourcreatype-60.png"/>
     <img align="center" heigth="30" width="40" src="https://img.icons8.com/cotton/64/null/api.png"/>
+    
   </div>
   
 
