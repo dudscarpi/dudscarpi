@@ -27,7 +27,6 @@
     <img align="center" heigth="30" width="40" src="https://img.icons8.com/color/48/null/amazon-web-services.png"/>
     <img align="center" heigth="30" width="40" src="https://img.icons8.com/cotton/64/null/api.png"/>
     <img align="center" heigth="30" width="40" src="https://img.icons8.com/color/48/null/sass.png"/>
-    <img align="center" heigth="30" width="40" src="https://img.icons8.com/officel/16/null/react.png"/>
   </div>
   
 
