@@ -18,6 +18,6 @@
     <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
     <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-    <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg](https://img.icons8.com/ios-filled/50/null/c-sharp-logo.png)" />
+    <img align="center" heigth="30" width="40" src="https://img.icons8.com/ios-filled/50/null/c-sharp-logo.png" />
 
   </div>
