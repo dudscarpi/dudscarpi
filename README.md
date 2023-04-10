@@ -1,4 +1,4 @@
-### 👋🏼 Hello Word, I'm Du! 🌏
+### 👋🏼 <b align="center"> Hello Word, I'm Du! 🌏<b>
 
 🌱 Hi, I'm Eduara Carpi, but you can call me Du =)<br>
 🌱 I'm in my early 20s, and I started programming in 2021.<br>
@@ -9,7 +9,7 @@
   <br>
     
   
-  <b>Languages and Tools:</b>
+  <b align="center">Languages and Tools:</b>
   <br>
   
   <div slyle="display: inline_block">
@@ -32,9 +32,10 @@
     <img align="center" heigth="30" width="40" src="https://img.icons8.com/fluency/48/null/node-js.png"/>
     <img align="center" heigth="30" width="40" src="https://img.icons8.com/fluency/48/null/azure-1.png"/>
   </div>
+  <br>
+  <br>
   
-  
-   <b>Readme Stats:</b>
+   <b align="center">Readme Stats:</b>
   <br>
   <div>
 <a href="https://github.com/dudscarpi">
