@@ -8,6 +8,7 @@
 🌱I'm FullStack, and I'm here learning more and more!
   <br>
     
+<a href="https://www.linkedin.com/in/eduara-carpi/"><img src="https://img.icons8.com/doodle/48/null/linkedin-circled.png"/></a>
   
   <b>Languages and Tools:</b>
   <br>
