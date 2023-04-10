@@ -7,9 +7,10 @@
 🌱 Study Marketing and Systems Analysis<br>
 🌱I'm FullStack, and I'm here learning more and more!
   <br>
+  <br>
   <b>Add me on Linkedin:</b><br>
    <a href="https://www.linkedin.com/in/eduara-carpi/"><img src="https://img.icons8.com/doodle/48/null/linkedin-circled.png"/></a>
-   
+   <br>
    <br>
   <b>Languages and Tools:</b>
   <br>
