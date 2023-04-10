@@ -10,7 +10,7 @@
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudscarpi&layout=compact&show_icons=true&theme=dracula"/>
 </div>
   
-  ##Languages and Tools:
+  <b>Languages and Tools:</b>
 
   <div slyle="display: inline_block">
     <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -29,6 +29,8 @@
     <img align="center" heigth="30" width="40" src="https://img.icons8.com/color/48/null/amazon-web-services.png"/>
     <img align="center" heigth="30" width="40" src="https://img.icons8.com/cotton/64/null/api.png"/>
     <img align="center" heigth="30" width="40" src="https://img.icons8.com/color/48/null/sass.png"/>
+    <img align="center" heigth="30" width="40" src="https://img.icons8.com/fluency/48/null/node-js.png"/>
+    <img align="center" heigth="30" width="40" src="https://img.icons8.com/fluency/48/null/azure-1.png"/>
   </div>
   
 
