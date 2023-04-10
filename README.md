@@ -7,17 +7,9 @@
 🌱 Study Marketing and Systems Analysis<br>
 🌱I'm FullStack, and I'm here learning more and more!
   <br>
-  
-<div>
-<a href="https://github.com/dudscarpi">
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=dudscarpi&show_icons=true&theme=dracula"/>
-<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudscarpi&layout=compact&show_icons=true&theme=dracula"/>
-</div>
-  
-  <br>
+    
   
   <b>Languages and Tools:</b>
-
   <br>
   
   <div slyle="display: inline_block">
@@ -40,5 +32,14 @@
     <img align="center" heigth="30" width="40" src="https://img.icons8.com/fluency/48/null/node-js.png"/>
     <img align="center" heigth="30" width="40" src="https://img.icons8.com/fluency/48/null/azure-1.png"/>
   </div>
+  
+  
+   <b>Readme Stats:</b>
+  <br>
+  <div>
+<a href="https://github.com/dudscarpi">
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=dudscarpi&show_icons=true&theme=dracula"/>
+<img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudscarpi&layout=compact&show_icons=true&theme=dracula"/>
+</div>
   
 
