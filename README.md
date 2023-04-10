@@ -1,7 +1,9 @@
-### Hello Word, I'm Du 👋
+### 👋🏼 Hello Word, I'm Du! 🌏
 
-
+🌱 Hi, I'm Eduara Carpi, but you can call me Du =)<br>
+🌱 I'm in my early 20s, and I started programming in 2021. I'm FullStack, and I'm here learning more and more!<br>
 🌱 I participated in the SoulCode Academy Class BCW20 Java Full Stack BootCamp - May-Sep/22 <br>
+🌱 I also participated in the bootcamp Hiring Coders - VTEX IO <br>
 🌱 Study Marketing and Systems Analysis
 
 <div>
@@ -10,8 +12,14 @@
 <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudscarpi&layout=compact&show_icons=true&theme=dracula"/>
 </div>
   
+  <br>
+  <br>
+  <br>
+  
   <b>Languages and Tools:</b>
 
+  <br>
+  
   <div slyle="display: inline_block">
     <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
     <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
