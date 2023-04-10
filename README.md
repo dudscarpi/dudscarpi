@@ -1,8 +1,8 @@
-### Olá, eu sou Eduara Carpi 👋
+### Hello Word, I'm Du 👋
 
 
-🌱 Participei do BootCamp Java Full Stack da SoulCode Academy Turma BCW20 - mai-set/22 <br>
-🌱 Estudo Marketing e Analise de Sistemas
+🌱 I participated in the SoulCode Academy Class BCW20 Java Full Stack BootCamp - May-Sep/22 <br>
+🌱 Study Marketing and Systems Analysis
 
 <div>
 <a href="https://github.com/dudscarpi">
