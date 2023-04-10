@@ -1,4 +1,4 @@
-### 👋🏼 <b align="center"> Hello Word, I'm Du! 🌏<b>
+### 👋🏼 <span align="center"> Hello Word, I'm Du! 🌏<span>
 
 🌱 Hi, I'm Eduara Carpi, but you can call me Du =)<br>
 🌱 I'm in my early 20s, and I started programming in 2021.<br>
@@ -9,7 +9,7 @@
   <br>
     
   
-  <b align="center">Languages and Tools:</b>
+  <b><span align="center">Languages and Tools:</span></b>
   <br>
   
   <div slyle="display: inline_block">
