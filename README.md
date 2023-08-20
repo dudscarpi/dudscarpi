@@ -1,11 +1,13 @@
-### 👋🏼 Hello Word, I'm Du! 🌏
+### 👋🏼 Hello Word, I'm Eduara Carpi! 🌏
 
-🌱 Hi, I'm Eduara Carpi, but you can call me Du =)<br>
-🌱 I'm in my early 20s, and I started programming in 2021.<br>
-🌱 I participated in the SoulCode Academy Class BCW20 Java Full Stack BootCamp<br>
-🌱 I also participated in the bootcamp Hiring Coders - VTEX IO<br>
+🌱 I'm 27 years old and I started programming in 2021.<br>
+🌱 Attended SoulCode Academy's BCW20 Java Full Stack BootCamp course<br>
+🌱 Participated in the bootcamp Hiring Coders - VTEX IO<br>
+🌱 Participated in the bootcamp Hiring Coders - VTEX IO<br>
+🌱 I participate in the bootcamp Santander Coders - Flutter -by DIO<br>
 🌱 Study Marketing and Systems Analysis<br>
-🌱I'm FullStack, and I'm here learning more and more!
+🌱 I'm FullStack, and I'm here learning more and more!
+
   <br>
   <br>
   <b>Add me on Linkedin:</b><br>
