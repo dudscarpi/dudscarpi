@@ -1,12 +1,12 @@
 ### 👋🏼 Hello Word, I'm Eduara Carpi! 🌏
 
 🌱 I'm 27 years old and I started programming in 2021.<br>
-🌱 Attended SoulCode Academy's BCW20 Java Full Stack BootCamp course<br>
+🌱 I work with C#, Asp.Net and Razor in the Síntese by Wake<br>
+🌱 I participated in the bootcamp of the BCW20 Java Full Stack BootCamp course by SoulCode Academy - Angular and Java<br>
 🌱 Participated in the bootcamp Hiring Coders - VTEX IO<br>
-🌱 Participated in the bootcamp Hiring Coders - VTEX IO<br>
-🌱 I participate in the bootcamp Santander Coders - Flutter -by DIO<br>
-🌱 Study Marketing and Systems Analysis<br>
-🌱 I'm FullStack, and I'm here learning more and more!
+🌱 I participate in the bootcamp Santander Coders - Flutter - by DIO<br>
+🌱 I am a student Marketing and Systems Analysis<br>
+🌱 I'm FullStack, and I'm here learning more and more!<br>
 
   <br>
   <br>
