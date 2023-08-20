@@ -13,6 +13,7 @@
   <b>Add me on Linkedin:</b><br>
    <a href="https://www.linkedin.com/in/eduara-carpi/"><img src="https://img.icons8.com/doodle/48/null/linkedin-circled.png"/></a>
    <br>
+
    <br>
   <b>Languages and Tools:</b>
   <br>
