@@ -37,7 +37,8 @@
   <img align="center" heigth="30" width="40" src="https://img.icons8.com/fluency/48/null/azure-1.png"/>
   <img align="center" heigth="30" width="40" src="https://img.icons8.com/color/48/null/google-cloud.png"/>
   <img align="center" heigth="30" width="40" src="https://img.icons8.com/color/48/null/firebase.png"/>
-  
+   <img align="center" heigth="30" width="40" src="https://img.icons8.com/color/48/null/flutter"/>
+
   </div>
   <br>
   <br>
