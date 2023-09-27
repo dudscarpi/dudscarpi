@@ -1,4 +1,4 @@
-### 👋🏼 Hello Word, I'm Eduara Carpi! 🌏
+### 👋🏼 Hello world, I'm Eduara Carpi! 🌏
 
 🌱 I'm 27 years old and I started programming in 2021.<br>
 🌱 I work with C#, Asp.Net and Razor in the Síntese by Wake<br>
