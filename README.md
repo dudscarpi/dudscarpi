@@ -6,6 +6,7 @@
 🌱 Participated in the bootcamp Hiring Coders - VTEX IO<br>
 🌱 I participate in the bootcamp Santander Coders - Flutter - by DIO<br>
 🌱 I am a student Marketing and Systems Analysis<br>
+🌱 I speak Portuguese natively, I understand the basics of English and French, and I can communicate well in Italian<br>
 🌱 I'm FullStack, and I'm here learning more and more!<br>
 
   <br>
