@@ -29,7 +29,6 @@
    <img align="center" heigth="30" width="40" src="https://img.icons8.com/color/48/null/bootstrap.png"/>
     <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
     <img align="center" heigth="30" width="40" src="https://img.icons8.com/color/48/000000/c-sharp-logo.png" />
-   <img align="center" heigth="30" width="40" src="https://img.icons8.com/color/48/null/python--v1.png"/>
     <img align="center" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
     <img align="center" heigth="30" width="40" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/64/null/external-sql-server-big-data-wanicon-lineal-color-wanicon.png"/>
   <img align="center" heigth="30" width="40" src="https://img.icons8.com/cotton/64/null/api.png"/>
