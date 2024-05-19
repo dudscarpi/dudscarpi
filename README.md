@@ -1,6 +1,6 @@
 ### 👋🏼 Hello world, I'm Eduara Carpi! 🌏
 
-🌱 I'm 27 years old and I started programming in 2021.<br>
+🌱 I'm 28 years old and I started programming in 2021.<br>
 🌱 I work with C#, Asp.Net and Razor in the Síntese by Wake<br>
 🌱 I participated in the bootcamp of the BCW20 Java Full Stack BootCamp course by SoulCode Academy - Angular and Java<br>
 🌱 Participated in the bootcamp Hiring Coders - VTEX IO<br>
